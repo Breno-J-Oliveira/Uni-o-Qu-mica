@@ -88,12 +88,12 @@ O design do projeto foi planejado no **Figma** nas versões para **PC** e **Mobi
 ### 💻 Versão Desktop  
 <p align="center">
   <a href="https://www.figma.com/design/doVTR5TXBWYr4E925qfJR3/Uni%C3%A3o-Qu%C3%ADmica-Computador?node-id=0-1&t=87yCGFLONBuInSxE-1" target="_blank">
-    <img src="img3.png" alt="Ver no Figma Desktop">
+    <img src="https://img.shields.io/badge/👉%20Veja%20no%20Figma%20(PC)-0ACF83?style=for-the-badge&logo=figma&logoColor=white" alt="Ver no Figma Desktop">
   </a>
 </p>  
 
 <p align="center">
-  <img src="assets/Pictures/figma-preview-pc.png" alt="Protótipo no Figma Desktop" width="700px">  
+  <img src="img3.png" alt="Protótipo no Figma Desktop" width="700px">  
 </p>  
 
 ---
@@ -101,13 +101,14 @@ O design do projeto foi planejado no **Figma** nas versões para **PC** e **Mobi
 ### 📱 Versão Mobile  
 <p align="center">
   <a href="https://www.figma.com/design/O6odfKCL3yU981xKwgcp8p/Uni%C3%A3o-Qu%C3%ADmica--Celular?node-id=0-1&t=6Z9i91kiThckm4wU-1" target="_blank">
-    <img src="img4.png" alt="Ver no Figma Mobile">
+    <img src="https://img.shields.io/badge/👉%20Veja%20no%20Figma%20(Mobile)-0ACF83?style=for-the-badge&logo=figma&logoColor=white" alt="Ver no Figma Mobile">
   </a>
 </p>  
 
 <p align="center">
-  <img src="assets/Pictures/figma-preview-mobile.png" alt="Protótipo no Figma Mobile" width="300px">  
+  <img src="img4.png" alt="Protótipo no Figma Mobile" width="300px">  
 </p>  
+
 
 
 ---
