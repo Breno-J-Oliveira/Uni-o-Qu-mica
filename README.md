@@ -75,8 +75,8 @@ Cada integrante teve papéis definidos e as entregas foram organizadas em sprint
 Aqui você pode adicionar capturas de tela do projeto:  
 
 <p align="center">
-  <img src="assets/Pictures/screenshot1.png" alt="Tela de Login" width="600px">  
-  <img src="assets/Pictures/screenshot2.png" alt="Área Restrita" width="600px">  
+  <img src="img1.png" alt="Tela de Login" width="600px">  
+  <img src="img2.png" alt="Área Restrita" width="600px">  
 </p>  
 
 ---
