@@ -42,7 +42,7 @@ Cada integrante teve papéis definidos e as entregas foram organizadas em sprint
 
 - **Scrum Master:** Isabella Radaél  
 - **Dev Sênior (Front + Back End):** Breno J. Oliveira  
-- **Dev:** Enzo Avanze  
+- **Dev Back-End:** Enzo Avanze  
 - **Devs Front-End:** Nicollas Fernandes e Rafaela  
 
 ---
